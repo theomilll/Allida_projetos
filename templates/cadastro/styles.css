@@ -221,7 +221,7 @@
 	height:24px;
 	position:absolute;
 	left:153.5px;
-	top:803px;
+	top:795px;
 	font-family:Syne;
 	text-align:center;
 	font-size:20px;
@@ -238,4 +238,7 @@ button, input{
 .cancel-btn:hover{
 	transition: all 0.35s ;
 	background-color: rgba(248.0000004172325, 237.0000010728836, 235.0000011920929, 1);
+}
+input{
+	padding-left: 10px;
 }
